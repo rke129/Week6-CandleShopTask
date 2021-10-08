@@ -7,6 +7,7 @@ Kuuenda nädala ülesanne:
 * lisa projekti kausta img ja css kaustad, css kaustas loo style.css fail
 * vaata html-i läbi ja leia pexel.com lehelt sobivaid pilte
 * kujunda lehekülg css'i abil
+*  leheküljel peab olema kasutatud parallax effekt;
 *  kõik pealkirjad peavab olema kuvatud läbiva suurtähega (text-transform);
 *  intro-image, packaging-image ja tutorials-image aladel peab olema tausta pilt;
 *  intro-text, packaging-text ja footer aladel peab olema taustavärv;
